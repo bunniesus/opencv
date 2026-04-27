@@ -8,4 +8,4 @@ cv2.imwrite('char2.png', img) # creates new img generated above
 
 cv2.imshow('Image',img)
 cv2.waitKey(0)
-cv2.destroyAllWindows()
+cv2.destroyAllWindows() #closes window
